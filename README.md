@@ -1,2 +1,2 @@
-# Calendario-Astronlogico
+# Calendario-Astrologico
 Aplicación web responsive
